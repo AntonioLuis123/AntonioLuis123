@@ -2,7 +2,7 @@
 - 👀 estou interessado em aprender
 - 🌱 atualmente estou aprendendo a como cria jogos
 - 💞️ estou procurando colaborar em
-- 📫 como chegar até mim
+- 📫 pode entrar em contato pelo gmail antonio.eidt@escola.pr.gov.br
 
 <!---
 AntonioLuis123/AntonioLuis123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
